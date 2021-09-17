@@ -1,0 +1,22 @@
+[
+    {
+        "name":"のーまるな1.16.5",
+        "id":"normal-1.16.5",
+        "option":{
+            "clientPackage": null,
+            "root": "./minecraft",
+            "version": {
+                "number": "1.16.5",
+                "type": "release",
+                "custom": "fabric-loader-0.11.7-1.16.5"
+            },
+            "memory": {
+                "max": "4G",
+                "min": "4G"
+            }
+        },
+        "files":[
+            "${.minecraft}/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json"
+        ]
+    }
+]
