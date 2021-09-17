@@ -2,6 +2,7 @@
     {
         "name":"のーまるな1.16.5",
         "id":"normal-1.16.5",
+        "description":"おもってるよりものーーまるなマイクラ。なんの変哲もありません。",
         "option":{
             "clientPackage": null,
             "root": "./minecraft",
