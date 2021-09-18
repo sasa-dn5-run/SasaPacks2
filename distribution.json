@@ -24,6 +24,7 @@
             "files": [
                 {
                     "path":"${.minecraft}/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
+                    "link":"${baseLink}/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
                     "size":"197609",
                     "md5":"1115564d016c08875713b1137bf6c560"
                 }
