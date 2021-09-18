@@ -23,6 +23,7 @@
             },
             "mods": [
                 {
+                    "name": "optifabric-1.11.20.jar",
                     "path": "/servers/normal-1.16.5/optionalon/optifabric-1.11.20.jar",
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/optifabric-1.11.20.jar",
                     "md5": "3610ae7ce4826ead4aea4007c2d32a16",
@@ -30,6 +31,7 @@
                     "level": "optionalon"
                 },
                 {
+                    "name": "OptiFine_1.16.5_HD_U_G8.jar",
                     "path": "/servers/normal-1.16.5/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
                     "md5": "a4279294ac4add56601608c7f27f38ab",
@@ -39,6 +41,7 @@
             ],
             "files": [
                 {
+                    "name": "fabric-loader-0.11.7-1.16.5.json",
                     "path": "/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
                     "md5": "8a468df9acecda76495ac0508e290a38",
                     "size": 2231,
