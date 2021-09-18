@@ -7,7 +7,7 @@
             "description": "おもってるよりものーーまるなマイクラ。なんの変哲もありません。",
             "option": {
                 "clientPackage": null,
-                "root": "./minecraft",
+                "root": "",
                 "version": {
                     "number": "1.16.5",
                     "type": "release",
