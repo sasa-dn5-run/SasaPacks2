@@ -30,10 +30,10 @@
                     "level": "optionalon"
                 },
                 {
-                    "path": "/servers/normal-1.16.5/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
-                    "md5": "56ca4bbaffef6d62b480eaa6d8d8239b",
-                    "size": 6321297,
+                    "path": "/servers/normal-1.16.5/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+                    "md5": "a4279294ac4add56601608c7f27f38ab",
+                    "size": 6046996,
                     "level": "optionalon"
                 }
             ],
