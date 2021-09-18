@@ -1,6 +1,6 @@
 {
-    "version":"1.0.0",
-    "servers":[
+    "version": "1.0.0",
+    "servers": [
         {
             "name": "のーまるな1.16.5",
             "id": "normal-1.16.5",
@@ -17,16 +17,32 @@
                     "max": "4G",
                     "min": "4G"
                 },
-                "overrides":{
-                    "gameDirectory":""
+                "overrides": {
+                    "gameDirectory": ""
                 }
             },
+            "mods": [
+                {
+                    "path": "/servers/normal-1.16.5/optionalon/optifabric-1.11.20.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/optifabric-1.11.20.jar",
+                    "md5": "3610ae7ce4826ead4aea4007c2d32a16",
+                    "size": 390935,
+                    "level": "optionalon"
+                },
+                {
+                    "path": "/servers/normal-1.16.5/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
+                    "md5": "56ca4bbaffef6d62b480eaa6d8d8239b",
+                    "size": 6321297,
+                    "level": "optionalon"
+                }
+            ],
             "files": [
                 {
-                    "path":"${.minecraft}/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
-                    "link":"${baseLink}/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
-                    "size":"197609",
-                    "md5":"1115564d016c08875713b1137bf6c560"
+                    "path": "/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
+                    "md5": "8a468df9acecda76495ac0508e290a38",
+                    "size": 2231,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json"
                 }
             ]
         }
