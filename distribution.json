@@ -38,11 +38,11 @@
                     "level": "optionalon"
                 },
                 {
-                    "name": "modmenu-2.0.11.jar",
-                    "path": "/servers/normal-1.16.5/optionalon/modmenu-2.0.11.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/modmenu-2.0.11.jar",
-                    "md5": "cf4f79155cd828664ae4e6871fe9c445",
-                    "size": 258289,
+                    "name": "modmenu-1.16.18.jar",
+                    "path": "/servers/normal-1.16.5/optionalon/modmenu-1.16.18.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/modmenu-1.16.18.jar",
+                    "md5": "9051621176ef91bc2b10386c58062774",
+                    "size": 252819,
                     "level": "optionalon"
                 }
             ],
@@ -77,14 +77,6 @@
             },
             "mods": [
                 {
-                    "name": "OptiFine_1.16.5_HD_U_G8.jar",
-                    "path": "/servers/normal-1.17.1/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-                    "md5": "e0717ba6d1674af83036ebc479fc77b4",
-                    "size": 6046996,
-                    "level": "optionalon"
-                },
-                {
                     "name": "OptiFine_1.17.1_HD_U_G9.jar",
                     "path": "/servers/normal-1.17.1/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
@@ -98,6 +90,14 @@
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/modmenu-2.0.11.jar",
                     "md5": "cf4f79155cd828664ae4e6871fe9c445",
                     "size": 258289,
+                    "level": "optionalon"
+                },
+                {
+                    "name": "optifabric-1.11.20.jar",
+                    "path": "/servers/normal-1.17.1/optionalon/optifabric-1.11.20.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/optifabric-1.11.20.jar",
+                    "md5": "b67ea83febc8f06240e15641836d942e",
+                    "size": 390935,
                     "level": "optionalon"
                 }
             ],
