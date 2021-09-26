@@ -1,0 +1,19 @@
+{
+    "name": "スナップショット21w38a",
+    "id": "snapshot-21w38a",
+    "description": "スナップショット21w38aの起動構成です。",
+    "option": {
+        "root": "",
+        "version": {
+            "number": "21w38a",
+            "type": "release",
+            "custom": "21w38a"
+        },
+        "memory": {
+            "max": "4G",
+            "min": "4G"
+        }
+    },
+    "mods": [],
+    "files": []
+}
