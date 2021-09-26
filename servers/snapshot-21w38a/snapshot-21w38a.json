@@ -15,5 +15,9 @@
         }
     },
     "mods": [],
-    "files": []
+    "files": [
+        {
+            "path": "/.minecraft/versions/21w38a/21w38a.json"
+        }
+    ]
 }

@@ -110,6 +110,33 @@
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json"
                 }
             ]
+        },
+        {
+            "name": "スナップショット21w38a",
+            "id": "snapshot-21w38a",
+            "description": "スナップショット21w38aの起動構成です。",
+            "option": {
+                "root": "",
+                "version": {
+                    "number": "21w38a",
+                    "type": "release",
+                    "custom": "21w38a"
+                },
+                "memory": {
+                    "max": "4G",
+                    "min": "4G"
+                }
+            },
+            "mods": [],
+            "files": [
+                {
+                    "path": "/.minecraft/versions/21w38a/21w38a.json",
+                    "name": "21w38a.json",
+                    "md5": "ea7e5de1ae0e6695d95f2b08750e5f25",
+                    "size": 40760,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/21w38a/21w38a.json"
+                }
+            ]
         }
     ]
 }
