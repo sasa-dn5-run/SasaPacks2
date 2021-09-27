@@ -12,6 +12,9 @@
         "memory": {
             "max": "4G",
             "min": "4G"
+        },
+        "overrides":{
+            "gameDirectory":""
         }
     },
     "mods": [],
