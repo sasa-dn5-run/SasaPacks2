@@ -126,15 +126,15 @@
             ]
         },
         {
-            "name": "スナップショット21w38a",
-            "id": "snapshot-21w38a",
+            "name": "スナップショット21w42a",
+            "id": "snapshot-21w42a",
             "description": "スナップショット21w38aの起動構成です。",
             "option": {
                 "root": "",
                 "version": {
-                    "number": "21w38a",
+                    "number": "21w42a",
                     "type": "SasaLauncher2",
-                    "custom": "21w38a"
+                    "custom": "21w42a"
                 },
                 "memory": {
                     "max": "4G",
@@ -147,18 +147,55 @@
             "mods": [],
             "files": [
                 {
-                    "path": "${MCLIBDIR}/versions/21w38a/21w38a.json",
-                    "name": "21w38a.json",
-                    "md5": "ea7e5de1ae0e6695d95f2b08750e5f25",
-                    "size": 40760,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/21w38a/21w38a.json"
+                    "path": "${MCLIBDIR}/versions/21w42a/21w42a.json",
+                    "name": "21w42a.json",
+                    "md5": "3e51e8c89e150fdc204eb1951068c77a",
+                    "size": 40570,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/21w42a/21w42a.json"
                 },
                 {
-                    "path": "${MCLIBDIR}/versions/21w38a/21w38a.json",
-                    "name": "21w38a.json",
-                    "md5": "ea7e5de1ae0e6695d95f2b08750e5f25",
-                    "size": 40760,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/21w38a/21w38a.json"
+                    "path": "${MCLIBDIR}/versions/21w42a/21w42a.json",
+                    "name": "21w42a.json",
+                    "md5": "3e51e8c89e150fdc204eb1951068c77a",
+                    "size": 40570,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/21w42a/21w42a.json"
+                }
+            ]
+        },
+        {
+            "name": "のーまるな1.12.2",
+            "id": "normal-1.12.2",
+            "description": "",
+            "option": {
+                "root": "",
+                "version": {
+                    "number": "1.12.2",
+                    "type": "SasaLauncher2"
+                },
+                "memory": {
+                    "max": "4G",
+                    "min": "4G"
+                },
+                "overrides": {
+                    "gameDirectory": null
+                },
+                "forge": "${MCLIBDIR}/forge/forge-1.12.2-14.23.5.2855-universal.jar"
+            },
+            "mods": [],
+            "files": [
+                {
+                    "path": "${MCLIBDIR}/forge/forge-1.12.2-14.23.5.2855-universal.jar",
+                    "name": "forge-1.12.2-14.23.5.2855-universal.jar",
+                    "md5": "02fcc447bb8938e5214292e4d36ec949",
+                    "size": 4464387,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forge/forge-1.12.2-14.23.5.2855-universal.jar"
+                },
+                {
+                    "path": "${MCLIBDIR}/forge/forge-1.12.2-14.23.5.2855-universal.jar",
+                    "name": "forge-1.12.2-14.23.5.2855-universal.jar",
+                    "md5": "02fcc447bb8938e5214292e4d36ec949",
+                    "size": 4464387,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forge/forge-1.12.2-14.23.5.2855-universal.jar"
                 }
             ]
         }
