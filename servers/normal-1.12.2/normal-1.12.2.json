@@ -1,0 +1,26 @@
+{
+    "name": "のーまるな1.12.2",
+    "id": "normal-1.12.2",
+    "description": "",
+    "option": {
+        "root": "",
+        "version": {
+            "number": "1.12.2",
+            "type": "SasaLauncher2"
+        },
+        "memory": {
+            "max": "4G",
+            "min": "4G"
+        },
+        "overrides": {
+            "gameDirectory": null
+        },
+        "forge": "${MCLIBDIR}/forge/forge-1.12.2-14.23.5.2855-universal.jar"
+    },
+    "mods": [],
+    "files": [
+       {
+           "path":"/.minecraft/forge/forge-1.12.2-14.23.5.2855-universal.jar"
+       }
+    ]
+}
