@@ -1,0 +1,22 @@
+{
+    "name": "TwilightForest-1.17.1",
+    "id": "TwilightForest-1.17.1",
+    "description": "黄昏の森1.17.1用の起動構成です。",
+    "option": {
+        "root": "",
+        "version": {
+            "number": "1.17.1",
+            "type": "SasaLauncher2"
+        },
+        "forge":"${MCLIBDIR}/forge/forge-1.17.1-37.0.103-installer.jar",
+        "memory": {
+            "max": "4G",
+            "min": "4G"
+        },
+        "overrides": {
+            "gameDirectory": null
+        }
+    },
+    "mods": [],
+    "files": []
+}
