@@ -53,13 +53,6 @@
                     "md5": "1115564d016c08875713b1137bf6c560",
                     "size": 2231,
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json"
-                },
-                {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
-                    "name": "fabric-loader-0.11.7-1.16.5.json",
-                    "md5": "1115564d016c08875713b1137bf6c560",
-                    "size": 2231,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json"
                 }
             ]
         },
@@ -115,13 +108,6 @@
                     "md5": "e5bc78185e32b0f45583a51f3e9a593b",
                     "size": 2231,
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json"
-                },
-                {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json",
-                    "name": "fabric-loader-0.11.7-1.17.1.json",
-                    "md5": "e5bc78185e32b0f45583a51f3e9a593b",
-                    "size": 2231,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json"
                 }
             ]
         },
@@ -154,7 +140,15 @@
                     "level": "require"
                 }
             ],
-            "files": []
+            "files": [
+                {
+                    "path": "${MCLIBDIR}/forge/forge-1.17.1-37.0.103-installer.jar",
+                    "name": "forge-1.17.1-37.0.103-installer.jar",
+                    "md5": "7d1e707696bf9e0c5b6f02e8f0651d4c",
+                    "size": 5300918,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
+                }
+            ]
         }
     ]
 }

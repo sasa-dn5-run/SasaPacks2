@@ -18,5 +18,9 @@
         }
     },
     "mods": [],
-    "files": []
+    "files": [
+        {
+            "path": "/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
+        }
+    ]
 }
