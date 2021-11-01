@@ -18,7 +18,7 @@
         }
     },
     "forgeLib":{
-      "in":"${BASELINK}/forgeLibBinary/forge-1.17.1-37.0.103.zip",
+      "in":"${BASELINK}/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
       "out":"${MCLIBDIR}/libraries"  
     },
     "mods": [],
