@@ -116,7 +116,7 @@
             "id": "TwilightForest-1.17.1",
             "description": "黄昏の森1.17.1用の起動構成です。必ずForge1.17.1-37.0.103をインストールしてから起動して下さい。",
             "option": {
-                "root": "${APPDATA}/.minecraft",
+                "root": "",
                 "version": {
                     "number": "1.17.1",
                     "type": "SasaLauncher2"
@@ -129,6 +129,10 @@
                 "overrides": {
                     "gameDirectory": null
                 }
+            },
+            "forgeLib": {
+                "in": "${MCLIBDIR}/forgeLibBinary/forge-1.17.1-37.0.103.zip",
+                "out": "${MCLIBDIR}/libraries"
             },
             "mods": [
                 {

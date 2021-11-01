@@ -20,7 +20,7 @@
     "mods": [],
     "files": [
         {
-            "path": "/.minecraft/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json"
+            "path": "${MCLIBDIR}/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json"
         }
     ]
 }
