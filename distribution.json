@@ -130,10 +130,7 @@
                     "gameDirectory": null
                 }
             },
-            "forgeLib": {
-                "in": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
-                "out": "${MCLIBDIR}/libraries"
-            },
+            "forgeLib": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
             "mods": [
                 {
                     "name": "twilightforest-1.17.1-4.0.811-universal.jar",
