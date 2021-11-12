@@ -150,6 +150,27 @@
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
                 }
             ]
+        },
+        {
+            "name": "1.18-プレリリース",
+            "id": "1.18-pre1",
+            "description": "1.18プレリリース１の起動構成",
+            "option": {
+                "root": "",
+                "version": {
+                    "number": "1.18-pre1",
+                    "type": "SasaLauncher2"
+                },
+                "memory": {
+                    "max": "4G",
+                    "min": "4G"
+                },
+                "overrides": {
+                    "gameDirectory": null
+                }
+            },
+            "mods": [],
+            "files": []
         }
     ]
 }
