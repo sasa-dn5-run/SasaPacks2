@@ -22,6 +22,14 @@
             },
             "mods": [
                 {
+                    "name": "modmenu-1.16.18.jar",
+                    "path": "${MCDATADIR}/normal-1.16.5/mods/modmenu-1.16.18.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/modmenu-1.16.18.jar",
+                    "md5": "9051621176ef91bc2b10386c58062774",
+                    "size": 252819,
+                    "level": "optionalon"
+                },
+                {
                     "name": "optifabric-1.11.20.jar",
                     "path": "${MCDATADIR}/normal-1.16.5/mods/optifabric-1.11.20.jar",
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/optifabric-1.11.20.jar",
@@ -35,14 +43,6 @@
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
                     "md5": "e0717ba6d1674af83036ebc479fc77b4",
                     "size": 6046996,
-                    "level": "optionalon"
-                },
-                {
-                    "name": "modmenu-1.16.18.jar",
-                    "path": "${MCDATADIR}/normal-1.16.5/mods/modmenu-1.16.18.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/modmenu-1.16.18.jar",
-                    "md5": "9051621176ef91bc2b10386c58062774",
-                    "size": 252819,
                     "level": "optionalon"
                 }
             ],
@@ -77,14 +77,6 @@
             },
             "mods": [
                 {
-                    "name": "OptiFine_1.17.1_HD_U_G9.jar",
-                    "path": "${MCDATADIR}/normal-1.17.1/mods/OptiFine_1.17.1_HD_U_G9.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
-                    "md5": "26e26517060aacfab1aa1751f4e1079d",
-                    "size": 6321297,
-                    "level": "optionalon"
-                },
-                {
                     "name": "modmenu-2.0.11.jar",
                     "path": "${MCDATADIR}/normal-1.17.1/mods/modmenu-2.0.11.jar",
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/modmenu-2.0.11.jar",
@@ -99,6 +91,14 @@
                     "md5": "b67ea83febc8f06240e15641836d942e",
                     "size": 390935,
                     "level": "optionalon"
+                },
+                {
+                    "name": "OptiFine_1.17.1_HD_U_G9.jar",
+                    "path": "${MCDATADIR}/normal-1.17.1/mods/OptiFine_1.17.1_HD_U_G9.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
+                    "md5": "26e26517060aacfab1aa1751f4e1079d",
+                    "size": 6321297,
+                    "level": "optionalon"
                 }
             ],
             "files": [
@@ -108,6 +108,52 @@
                     "md5": "e5bc78185e32b0f45583a51f3e9a593b",
                     "size": 2231,
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json"
+                }
+            ]
+        },
+        {
+            "name": "のーまるな1.18",
+            "id": "1.18",
+            "description": "のーまるな1.18です。",
+            "option": {
+                "root": "",
+                "version": {
+                    "number": "1.18",
+                    "type": "SasaLauncher2"
+                },
+                "memory": {
+                    "max": "4G",
+                    "min": "4G"
+                },
+                "overrides": {
+                    "gameDirectory": null
+                }
+            },
+            "mods": [
+                {
+                    "name": "modmenu-3.0.0.jar",
+                    "path": "${MCDATADIR}/normal-1.18/mods/modmenu-3.0.0.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18/optionalon/modmenu-3.0.0.jar",
+                    "md5": "ceae4a48785a91f1e800bbd3659c7b01",
+                    "size": 262169,
+                    "level": "optionalon"
+                },
+                {
+                    "name": "sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+                    "path": "${MCDATADIR}/normal-1.18/mods/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18/optionalon/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+                    "md5": "94f45dbaa6b93e7ae6f9454fdc3a6bb8",
+                    "size": 1311910,
+                    "level": "optionalon"
+                }
+            ],
+            "files": [
+                {
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.8-1.18/fabric-loader-0.12.8-1.18.json",
+                    "name": "fabric-loader-0.12.8-1.18.json",
+                    "md5": "90a92291dff4e71707270a5b40ba17c7",
+                    "size": 1913,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.12.8-1.18/fabric-loader-0.12.8-1.18.json"
                 }
             ]
         },
@@ -150,27 +196,6 @@
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
                 }
             ]
-        },
-        {
-            "name": "1.18-プレリリース",
-            "id": "1.18-pre1",
-            "description": "1.18プレリリース１の起動構成",
-            "option": {
-                "root": "",
-                "version": {
-                    "number": "1.18-pre1",
-                    "type": "SasaLauncher2"
-                },
-                "memory": {
-                    "max": "4G",
-                    "min": "4G"
-                },
-                "overrides": {
-                    "gameDirectory": null
-                }
-            },
-            "mods": [],
-            "files": []
         }
     ]
 }
