@@ -1,12 +1,13 @@
 {
     "name": "のーまるな1.18",
-    "id": "1.18",
+    "id": "normal-1.18",
     "description": "のーまるな1.18です。",
     "option": {
         "root": "",
         "version": {
             "number": "1.18",
-            "type": "SasaLauncher2"
+            "type": "SasaLauncher2",
+            "custom": "fabric-loader-0.12.8-1.18"
         },
         "memory": {
             "max": "4G",
