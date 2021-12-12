@@ -5,12 +5,13 @@
             "name": "のーまるな1.16.5",
             "id": "normal-1.16.5",
             "description": "ほんとのほんとでのーまるなマイクラ。なんの変哲もありません。",
+            "javaVersion": "17",
             "option": {
                 "root": "",
                 "version": {
                     "number": "1.16.5",
                     "type": "SasaLauncher2",
-                    "custom": "fabric-loader-0.11.7-1.16.5"
+                    "custom": "fabric-loader-0.12.11-1.16.5"
                 },
                 "memory": {
                     "max": "4G",
@@ -48,11 +49,18 @@
             ],
             "files": [
                 {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json",
-                    "name": "fabric-loader-0.11.7-1.16.5.json",
-                    "md5": "1115564d016c08875713b1137bf6c560",
-                    "size": 2231,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.11.7-1.16.5/fabric-loader-0.11.7-1.16.5.json"
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.json",
+                    "name": "fabric-loader-0.12.11-1.16.5.json",
+                    "md5": "a223648c0a6b321155c2512dd28b40d6",
+                    "size": 1183,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.json"
+                },
+                {
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.jar",
+                    "name": "fabric-loader-0.12.11-1.16.5.jar",
+                    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+                    "size": 0,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.jar"
                 }
             ]
         },
@@ -60,6 +68,7 @@
             "name": "のーまる1.17.1",
             "id": "normal-1.17.1",
             "description": "ほんとのほんとでのーまるなマイクラ。なんの変哲もありません。",
+            "javaVersion": "17",
             "option": {
                 "root": "",
                 "version": {
@@ -115,6 +124,7 @@
             "name": "のーまるな1.18",
             "id": "normal-1.18",
             "description": "のーまるな1.18です。",
+            "javaVersion": "17",
             "option": {
                 "root": "",
                 "version": {
@@ -169,6 +179,7 @@
         {
             "name": "TwilightForest-1.17.1",
             "id": "TwilightForest-1.17.1",
+            "javaVersion": "17",
             "description": "黄昏の森1.17.1用の起動構成です。",
             "option": {
                 "root": "",

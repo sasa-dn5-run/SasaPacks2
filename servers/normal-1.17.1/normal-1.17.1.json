@@ -2,6 +2,7 @@
     "name": "のーまる1.17.1",
     "id": "normal-1.17.1",
     "description": "ほんとのほんとでのーまるなマイクラ。なんの変哲もありません。",
+    "javaVersion": "17",
     "option": {
         "root": "",
         "version": {

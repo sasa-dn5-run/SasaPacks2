@@ -1,6 +1,7 @@
 {
     "name": "TwilightForest-1.17.1",
     "id": "TwilightForest-1.17.1",
+    "javaVersion": "17",
     "description": "黄昏の森1.17.1用の起動構成です。",
     "option": {
         "root": "",

@@ -2,6 +2,7 @@
     "name": "のーまるな1.18",
     "id": "normal-1.18",
     "description": "のーまるな1.18です。",
+    "javaVersion": "17",
     "option": {
         "root": "",
         "version": {
