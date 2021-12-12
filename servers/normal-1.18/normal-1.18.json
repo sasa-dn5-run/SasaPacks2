@@ -15,7 +15,7 @@
             "min": "4G"
         },
         "overrides": {
-            "directory": null
+            "gameDirectory": null
         }
     },
     "mods": [],

@@ -18,7 +18,7 @@
                     "min": "4G"
                 },
                 "overrides": {
-                    "directory": ""
+                    "gameDirectory": ""
                 }
             },
             "mods": [
@@ -81,7 +81,7 @@
                     "min": "4G"
                 },
                 "overrides": {
-                    "directory": ""
+                    "gameDirectory": ""
                 }
             },
             "mods": [
@@ -137,7 +137,7 @@
                     "min": "4G"
                 },
                 "overrides": {
-                    "directory": null
+                    "gameDirectory": null
                 }
             },
             "mods": [
@@ -193,7 +193,7 @@
                     "min": "4G"
                 },
                 "overrides": {
-                    "directory": null
+                    "gameDirectory": null
                 }
             },
             "forgeLib": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",

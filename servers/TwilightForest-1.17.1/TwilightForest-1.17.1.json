@@ -15,7 +15,7 @@
             "min": "4G"
         },
         "overrides": {
-            "directory": null
+            "gameDirectory": null
         }
     },
     "forgeLib":"${BASELINK}/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
