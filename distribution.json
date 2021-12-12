@@ -58,8 +58,8 @@
                 {
                     "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.jar",
                     "name": "fabric-loader-0.12.11-1.16.5.jar",
-                    "md5": "d41d8cd98f00b204e9800998ecf8427e",
-                    "size": 0,
+                    "md5": "a57b9157ff3bb308208e79ef9e19187e",
+                    "size": 17547153,
                     "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.jar"
                 }
             ]
