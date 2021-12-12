@@ -74,7 +74,7 @@
                 "version": {
                     "number": "1.17.1",
                     "type": "SasaLauncher2",
-                    "custom": "fabric-loader-0.11.7-1.17.1"
+                    "custom": "fabric-loader-0.12.11-1.17.1"
                 },
                 "memory": {
                     "max": "4G",
@@ -112,25 +112,32 @@
             ],
             "files": [
                 {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json",
-                    "name": "fabric-loader-0.11.7-1.17.1.json",
-                    "md5": "e5bc78185e32b0f45583a51f3e9a593b",
-                    "size": 2231,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.11.7-1.17.1/fabric-loader-0.11.7-1.17.1.json"
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.json",
+                    "name": "fabric-loader-0.12.11-1.17.1.json",
+                    "md5": "60871a091e43fb93f29d3d078fb8049d",
+                    "size": 1183,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.json"
+                },
+                {
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.jar",
+                    "name": "fabric-loader-0.12.11-1.17.1.jar",
+                    "md5": "ad221960706b909fd0563e43cd79e3d7",
+                    "size": 19546842,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.jar"
                 }
             ]
         },
         {
-            "name": "のーまるな1.18",
-            "id": "normal-1.18",
-            "description": "のーまるな1.18です。",
+            "name": "のーまるな1.18.1",
+            "id": "normal-1.18.1",
+            "description": "のーまるな1.18.1です。",
             "javaVersion": "17",
             "option": {
                 "root": "",
                 "version": {
                     "number": "1.18",
                     "type": "SasaLauncher2",
-                    "custom": "fabric-loader-0.12.8-1.18"
+                    "custom": "fabric-loader-0.12.11-1.18.1"
                 },
                 "memory": {
                     "max": "4G",
@@ -142,11 +149,11 @@
             },
             "mods": [
                 {
-                    "name": "iris-mc1.18-1.1.3.jar",
-                    "path": "${MCDATADIR}/normal-1.18/mods/iris-mc1.18-1.1.3.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.18/optionalon/iris-mc1.18-1.1.3.jar",
-                    "md5": "fb34284bc833ddff939b1bdf7aff4149",
-                    "size": 1626819,
+                    "name": "iris-mc1.18.1-1.1.3.jar",
+                    "path": "${MCDATADIR}/normal-1.18/mods/iris-mc1.18.1-1.1.3.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.18/optionalon/iris-mc1.18.1-1.1.3.jar",
+                    "md5": "fc7e13f373dd5a7b5c1cb24d20617d04",
+                    "size": 1593730,
                     "level": "optionalon"
                 },
                 {
@@ -168,11 +175,18 @@
             ],
             "files": [
                 {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.8-1.18/fabric-loader-0.12.8-1.18.json",
-                    "name": "fabric-loader-0.12.8-1.18.json",
-                    "md5": "1abaa624080466e81b9376ea61a6e428",
-                    "size": 1967,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.8-1.18/fabric-loader-0.12.8-1.18.json"
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.json",
+                    "name": "fabric-loader-0.12.11-1.18.1.json",
+                    "md5": "f51e3cb9cb4ecdfe64e95a2cb4dd8b1b",
+                    "size": 1183,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.json"
+                },
+                {
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.jar",
+                    "name": "fabric-loader-0.12.11-1.18.1.jar",
+                    "md5": "7facee43f33c09a9c4c8632aa7c44fce",
+                    "size": 20042090,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.jar"
                 }
             ]
         },

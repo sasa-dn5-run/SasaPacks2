@@ -18,7 +18,7 @@
             "gameDirectory": ""
         }
     },
-    "mods":[],
+    "mods": [],
     "files": [
         {
             "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.json"

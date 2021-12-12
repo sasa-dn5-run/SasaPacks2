@@ -1,14 +1,14 @@
 {
-    "name": "のーまるな1.18",
-    "id": "normal-1.18",
-    "description": "のーまるな1.18です。",
+    "name": "のーまるな1.18.1",
+    "id": "normal-1.18.1",
+    "description": "のーまるな1.18.1です。",
     "javaVersion": "17",
     "option": {
         "root": "",
         "version": {
             "number": "1.18",
             "type": "SasaLauncher2",
-            "custom": "fabric-loader-0.12.8-1.18"
+            "custom": "fabric-loader-0.12.11-1.18.1"
         },
         "memory": {
             "max": "4G",
@@ -21,7 +21,10 @@
     "mods": [],
     "files": [
         {
-            "path": "${MCLIBDIR}/versions/fabric-loader-0.12.8-1.18/fabric-loader-0.12.8-1.18.json"
+            "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.json"
+        },
+        {
+            "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.jar"
         }
     ]
 }
