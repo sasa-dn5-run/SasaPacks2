@@ -6,7 +6,7 @@
     "option": {
         "root": "",
         "version": {
-            "number": "1.18",
+            "number": "1.18.1",
             "type": "SasaLauncher2",
             "custom": "fabric-loader-0.12.11-1.18.1"
         },
