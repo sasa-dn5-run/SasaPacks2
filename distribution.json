@@ -23,19 +23,19 @@
             },
             "mods": [
                 {
-                    "name": "modmenu-1.16.18.jar",
-                    "path": "${MCDATADIR}/normal-1.16.5/mods/modmenu-1.16.18.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.16.5/optionalon/modmenu-1.16.18.jar",
-                    "md5": "9051621176ef91bc2b10386c58062774",
-                    "size": 252819,
+                    "name": "modmenu-1.16.22.jar",
+                    "path": "${MCDATADIR}/normal-1.16.5/mods/modmenu-1.16.22.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.16.5/optionalon/modmenu-1.16.22.jar",
+                    "md5": "9605c28631aa3ab220fa65e653281158",
+                    "size": 255238,
                     "level": "optionalon"
                 },
                 {
-                    "name": "optifabric-1.11.20.jar",
-                    "path": "${MCDATADIR}/normal-1.16.5/mods/optifabric-1.11.20.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.16.5/optionalon/optifabric-1.11.20.jar",
-                    "md5": "b67ea83febc8f06240e15641836d942e",
-                    "size": 390935,
+                    "name": "optifabric-1.12.7.jar",
+                    "path": "${MCDATADIR}/normal-1.16.5/mods/optifabric-1.12.7.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.16.5/optionalon/optifabric-1.12.7.jar",
+                    "md5": "4dfee3b1ad3c02b576a8e8f8959a72e4",
+                    "size": 403416,
                     "level": "optionalon"
                 },
                 {
@@ -86,19 +86,19 @@
             },
             "mods": [
                 {
-                    "name": "modmenu-2.0.11.jar",
-                    "path": "${MCDATADIR}/normal-1.17.1/mods/modmenu-2.0.11.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.17.1/optionalon/modmenu-2.0.11.jar",
-                    "md5": "cf4f79155cd828664ae4e6871fe9c445",
-                    "size": 258289,
+                    "name": "modmenu-2.0.14.jar",
+                    "path": "${MCDATADIR}/normal-1.17.1/mods/modmenu-2.0.14.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.17.1/optionalon/modmenu-2.0.14.jar",
+                    "md5": "1d3f3d77373afa609e476f2ac5d3662b",
+                    "size": 262086,
                     "level": "optionalon"
                 },
                 {
-                    "name": "optifabric-1.11.20.jar",
-                    "path": "${MCDATADIR}/normal-1.17.1/mods/optifabric-1.11.20.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.17.1/optionalon/optifabric-1.11.20.jar",
-                    "md5": "b67ea83febc8f06240e15641836d942e",
-                    "size": 390935,
+                    "name": "optifabric-1.12.7.jar",
+                    "path": "${MCDATADIR}/normal-1.17.1/mods/optifabric-1.12.7.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.17.1/optionalon/optifabric-1.12.7.jar",
+                    "md5": "4dfee3b1ad3c02b576a8e8f8959a72e4",
+                    "size": 403416,
                     "level": "optionalon"
                 },
                 {
