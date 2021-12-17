@@ -8,7 +8,7 @@
         "version": {
             "number": "1.16.5",
             "type": "SasaLauncher2",
-            "custom": "fabric-loader-0.12.11-1.16.5"
+            "custom": "fabric-loader-0.12.12-1.16.5"
         },
         "memory": {
             "max": "4G",
@@ -21,10 +21,7 @@
     "mods": [],
     "files": [
         {
-            "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.json"
-        },
-        {
-            "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.jar"
+            "path": "${MCLIBDIR}/versions/fabric-loader-0.12.12-1.16.5/fabric-loader-0.12.12-1.16.5.json"
         }
     ]
 }

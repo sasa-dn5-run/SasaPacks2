@@ -11,7 +11,7 @@
                 "version": {
                     "number": "1.16.5",
                     "type": "SasaLauncher2",
-                    "custom": "fabric-loader-0.12.11-1.16.5"
+                    "custom": "fabric-loader-0.12.12-1.16.5"
                 },
                 "memory": {
                     "max": "4G",
@@ -49,18 +49,11 @@
             ],
             "files": [
                 {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.json",
-                    "name": "fabric-loader-0.12.11-1.16.5.json",
-                    "md5": "a223648c0a6b321155c2512dd28b40d6",
-                    "size": 1183,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.json"
-                },
-                {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.jar",
-                    "name": "fabric-loader-0.12.11-1.16.5.jar",
-                    "md5": "a57b9157ff3bb308208e79ef9e19187e",
-                    "size": 17547153,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.16.5/fabric-loader-0.12.11-1.16.5.jar"
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.12-1.16.5/fabric-loader-0.12.12-1.16.5.json",
+                    "name": "fabric-loader-0.12.12-1.16.5.json",
+                    "md5": "d24e940737b1153f68ece1a032fe7107",
+                    "size": 1972,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.12-1.16.5/fabric-loader-0.12.12-1.16.5.json"
                 }
             ]
         },
@@ -74,7 +67,7 @@
                 "version": {
                     "number": "1.17.1",
                     "type": "SasaLauncher2",
-                    "custom": "fabric-loader-0.12.11-1.17.1"
+                    "custom": "fabric-loader-0.12.12-1.17.1"
                 },
                 "memory": {
                     "max": "4G",
@@ -112,18 +105,11 @@
             ],
             "files": [
                 {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.json",
-                    "name": "fabric-loader-0.12.11-1.17.1.json",
-                    "md5": "60871a091e43fb93f29d3d078fb8049d",
-                    "size": 1183,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.json"
-                },
-                {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.jar",
-                    "name": "fabric-loader-0.12.11-1.17.1.jar",
-                    "md5": "ad221960706b909fd0563e43cd79e3d7",
-                    "size": 19546842,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.17.1/fabric-loader-0.12.11-1.17.1.jar"
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.12-1.17.1/fabric-loader-0.12.12-1.17.1.json",
+                    "name": "fabric-loader-0.12.12-1.17.1.json",
+                    "md5": "83117a383af5825e790f6cc92dbf8444",
+                    "size": 1972,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.12-1.17.1/fabric-loader-0.12.12-1.17.1.json"
                 }
             ]
         },
@@ -137,7 +123,7 @@
                 "version": {
                     "number": "1.18.1",
                     "type": "SasaLauncher2",
-                    "custom": "fabric-loader-0.12.11-1.18.1"
+                    "custom": "fabric-loader-0.12.12-1.18.1"
                 },
                 "memory": {
                     "max": "4G",
@@ -175,18 +161,11 @@
             ],
             "files": [
                 {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.json",
-                    "name": "fabric-loader-0.12.11-1.18.1.json",
-                    "md5": "f51e3cb9cb4ecdfe64e95a2cb4dd8b1b",
-                    "size": 1183,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.json"
-                },
-                {
-                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.jar",
-                    "name": "fabric-loader-0.12.11-1.18.1.jar",
-                    "md5": "7facee43f33c09a9c4c8632aa7c44fce",
-                    "size": 20042090,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.11-1.18.1/fabric-loader-0.12.11-1.18.1.jar"
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.12.12-1.18.1/fabric-loader-0.12.12-1.18.1.json",
+                    "name": "fabric-loader-0.12.12-1.18.1.json",
+                    "md5": "25a53841c5e5849e44b99a7cea321687",
+                    "size": 1972,
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.12-1.18.1/fabric-loader-0.12.12-1.18.1.json"
                 }
             ]
         },
