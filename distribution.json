@@ -25,7 +25,7 @@
                 {
                     "name": "modmenu-1.16.22.jar",
                     "path": "${MCDATADIR}/normal-1.16.5/mods/modmenu-1.16.22.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.16.5/optionalon/modmenu-1.16.22.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/modmenu-1.16.22.jar",
                     "md5": "9605c28631aa3ab220fa65e653281158",
                     "size": 255238,
                     "level": "optionalon"
@@ -33,7 +33,7 @@
                 {
                     "name": "optifabric-1.12.7.jar",
                     "path": "${MCDATADIR}/normal-1.16.5/mods/optifabric-1.12.7.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.16.5/optionalon/optifabric-1.12.7.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/optifabric-1.12.7.jar",
                     "md5": "4dfee3b1ad3c02b576a8e8f8959a72e4",
                     "size": 403416,
                     "level": "optionalon"
@@ -41,7 +41,7 @@
                 {
                     "name": "OptiFine_1.16.5_HD_U_G8.jar",
                     "path": "${MCDATADIR}/normal-1.16.5/mods/OptiFine_1.16.5_HD_U_G8.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.16.5/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
                     "md5": "e0717ba6d1674af83036ebc479fc77b4",
                     "size": 6046996,
                     "level": "optionalon"
@@ -53,7 +53,7 @@
                     "name": "fabric-loader-0.12.12-1.16.5.json",
                     "md5": "d24e940737b1153f68ece1a032fe7107",
                     "size": 1972,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.12-1.16.5/fabric-loader-0.12.12-1.16.5.json"
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.12.12-1.16.5/fabric-loader-0.12.12-1.16.5.json"
                 }
             ]
         },
@@ -81,7 +81,7 @@
                 {
                     "name": "modmenu-2.0.14.jar",
                     "path": "${MCDATADIR}/normal-1.17.1/mods/modmenu-2.0.14.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.17.1/optionalon/modmenu-2.0.14.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/modmenu-2.0.14.jar",
                     "md5": "1d3f3d77373afa609e476f2ac5d3662b",
                     "size": 262086,
                     "level": "optionalon"
@@ -89,7 +89,7 @@
                 {
                     "name": "optifabric-1.12.7.jar",
                     "path": "${MCDATADIR}/normal-1.17.1/mods/optifabric-1.12.7.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.17.1/optionalon/optifabric-1.12.7.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/optifabric-1.12.7.jar",
                     "md5": "4dfee3b1ad3c02b576a8e8f8959a72e4",
                     "size": 403416,
                     "level": "optionalon"
@@ -97,7 +97,7 @@
                 {
                     "name": "OptiFine_1.17.1_HD_U_G9.jar",
                     "path": "${MCDATADIR}/normal-1.17.1/mods/OptiFine_1.17.1_HD_U_G9.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.17.1/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/OptiFine_1.17.1_HD_U_G9.jar",
                     "md5": "26e26517060aacfab1aa1751f4e1079d",
                     "size": 6321297,
                     "level": "optionalon"
@@ -109,7 +109,7 @@
                     "name": "fabric-loader-0.12.12-1.17.1.json",
                     "md5": "83117a383af5825e790f6cc92dbf8444",
                     "size": 1972,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.12-1.17.1/fabric-loader-0.12.12-1.17.1.json"
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.12.12-1.17.1/fabric-loader-0.12.12-1.17.1.json"
                 }
             ]
         },
@@ -137,7 +137,7 @@
                 {
                     "name": "iris-mc1.18.1-1.1.3.jar",
                     "path": "${MCDATADIR}/normal-1.18.1/mods/iris-mc1.18.1-1.1.3.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.18.1/optionalon/iris-mc1.18.1-1.1.3.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18.1/optionalon/iris-mc1.18.1-1.1.3.jar",
                     "md5": "fc7e13f373dd5a7b5c1cb24d20617d04",
                     "size": 1593730,
                     "level": "optionalon"
@@ -145,7 +145,7 @@
                 {
                     "name": "modmenu-3.0.0.jar",
                     "path": "${MCDATADIR}/normal-1.18.1/mods/modmenu-3.0.0.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.18.1/optionalon/modmenu-3.0.0.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18.1/optionalon/modmenu-3.0.0.jar",
                     "md5": "ceae4a48785a91f1e800bbd3659c7b01",
                     "size": 262169,
                     "level": "optionalon"
@@ -153,7 +153,7 @@
                 {
                     "name": "sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
                     "path": "${MCDATADIR}/normal-1.18.1/mods/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/normal-1.18.1/optionalon/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18.1/optionalon/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
                     "md5": "94f45dbaa6b93e7ae6f9454fdc3a6bb8",
                     "size": 1311910,
                     "level": "optionalon"
@@ -165,7 +165,7 @@
                     "name": "fabric-loader-0.12.12-1.18.1.json",
                     "md5": "25a53841c5e5849e44b99a7cea321687",
                     "size": 1972,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/versions/fabric-loader-0.12.12-1.18.1/fabric-loader-0.12.12-1.18.1.json"
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.12.12-1.18.1/fabric-loader-0.12.12-1.18.1.json"
                 }
             ]
         },
@@ -189,12 +189,12 @@
                     "gameDirectory": null
                 }
             },
-            "forgeLib": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
+            "forgeLib": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
             "mods": [
                 {
                     "name": "twilightforest-1.17.1-4.0.811-universal.jar",
                     "path": "${MCDATADIR}/TwilightForest-1.17.1/mods/twilightforest-1.17.1-4.0.811-universal.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/servers/TwilightForest-1.17.1/require/twilightforest-1.17.1-4.0.811-universal.jar",
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/TwilightForest-1.17.1/require/twilightforest-1.17.1-4.0.811-universal.jar",
                     "md5": "996ff103a0175ae907b29c6645018e32",
                     "size": 32155163,
                     "level": "require"
@@ -206,7 +206,7 @@
                     "name": "forge-1.17.1-37.0.103-installer.jar",
                     "md5": "7d1e707696bf9e0c5b6f02e8f0651d4c",
                     "size": 5300918,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/dev/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
+                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
                 }
             ]
         }
