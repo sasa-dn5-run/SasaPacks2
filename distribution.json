@@ -194,24 +194,24 @@
                     "name": "iris-mc1.18.2-1.2.1-rc2-0cc372f0.jar",
                     "path": "${MCDATADIR}/normal-1.18.2/mods/iris-mc1.18.2-1.2.1-rc2-0cc372f0.jar",
                     "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.2/optionalon/iris-mc1.18.2-1.2.1-rc2-0cc372f0.jar",
-                    "md5": "d26bdb44fc47cfb2c0f86e7e2e399b7a",
-                    "size": 675,
+                    "md5": "25604aa90ec3d15b26b17f04086e4a75",
+                    "size": 1487193,
                     "level": "optionalon"
                 },
                 {
                     "name": "modmenu-3.1.0.jar",
                     "path": "${MCDATADIR}/normal-1.18.2/mods/modmenu-3.1.0.jar",
                     "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.2/optionalon/modmenu-3.1.0.jar",
-                    "md5": "a6479da6a86829decd33c8eacea05357",
-                    "size": 656,
+                    "md5": "d0596609b80e9bddbf615ecf7b6430bb",
+                    "size": 273342,
                     "level": "optionalon"
                 },
                 {
                     "name": "sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
                     "path": "${MCDATADIR}/normal-1.18.2/mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
                     "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.2/optionalon/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
-                    "md5": "1672a431505f163a50c7c5a013fc8f89",
-                    "size": 682,
+                    "md5": "601f5c1d8b2b6e3c08a1216000099508",
+                    "size": 1318645,
                     "level": "optionalon"
                 }
             ],
