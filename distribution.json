@@ -25,7 +25,7 @@
                 {
                     "name": "iris-mc1.16.5-1.2.0-pre.jar",
                     "path": "${MCDATADIR}/normal-1.16.5/mods/iris-mc1.16.5-1.2.0-pre.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/iris-mc1.16.5-1.2.0-pre.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.16.5/optionalon/iris-mc1.16.5-1.2.0-pre.jar",
                     "md5": "59c4814f1d2b786deffb2c8c7625a732",
                     "size": 1682879,
                     "level": "optionalon"
@@ -33,7 +33,7 @@
                 {
                     "name": "modmenu-1.16.22.jar",
                     "path": "${MCDATADIR}/normal-1.16.5/mods/modmenu-1.16.22.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/modmenu-1.16.22.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.16.5/optionalon/modmenu-1.16.22.jar",
                     "md5": "9605c28631aa3ab220fa65e653281158",
                     "size": 255238,
                     "level": "optionalon"
@@ -41,7 +41,7 @@
                 {
                     "name": "sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
                     "path": "${MCDATADIR}/normal-1.16.5/mods/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.16.5/optionalon/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.16.5/optionalon/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
                     "md5": "98914f22cfe2d0ea5d8007ae8ff96062",
                     "size": 507710,
                     "level": "optionalon"
@@ -53,7 +53,7 @@
                     "name": "fabric-loader-0.13.0-1.16.5.json",
                     "md5": "17e03e61336138bf0ff84c4edde01c85",
                     "size": 1679,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.13.0-1.16.5/fabric-loader-0.13.0-1.16.5.json"
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/.minecraft/versions/fabric-loader-0.13.0-1.16.5/fabric-loader-0.13.0-1.16.5.json"
                 }
             ]
         },
@@ -81,7 +81,7 @@
                 {
                     "name": "iris-mc1.17-1.2.0-pre.jar",
                     "path": "${MCDATADIR}/normal-1.17.1/mods/iris-mc1.17-1.2.0-pre.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/iris-mc1.17-1.2.0-pre.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.17.1/optionalon/iris-mc1.17-1.2.0-pre.jar",
                     "md5": "abeb6181aec3e4e14c9dac749449d7a0",
                     "size": 1776968,
                     "level": "optionalon"
@@ -89,7 +89,7 @@
                 {
                     "name": "modmenu-2.0.14.jar",
                     "path": "${MCDATADIR}/normal-1.17.1/mods/modmenu-2.0.14.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/modmenu-2.0.14.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.17.1/optionalon/modmenu-2.0.14.jar",
                     "md5": "1d3f3d77373afa609e476f2ac5d3662b",
                     "size": 262086,
                     "level": "optionalon"
@@ -97,7 +97,7 @@
                 {
                     "name": "sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
                     "path": "${MCDATADIR}/normal-1.17.1/mods/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.17.1/optionalon/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.17.1/optionalon/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
                     "md5": "e10ad1ca16385fd9464613a710138194",
                     "size": 1286054,
                     "level": "optionalon"
@@ -109,7 +109,7 @@
                     "name": "fabric-loader-0.13.0-1.17.1.json",
                     "md5": "2c2f6ec391f1d5351bd743e17d7aa53d",
                     "size": 1679,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.13.0-1.17.1/fabric-loader-0.13.0-1.17.1.json"
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/.minecraft/versions/fabric-loader-0.13.0-1.17.1/fabric-loader-0.13.0-1.17.1.json"
                 }
             ]
         },
@@ -137,7 +137,7 @@
                 {
                     "name": "iris-mc1.18.1-1.2.0-pre.jar",
                     "path": "${MCDATADIR}/normal-1.18.1/mods/iris-mc1.18.1-1.2.0-pre.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18.1/optionalon/iris-mc1.18.1-1.2.0-pre.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.1/optionalon/iris-mc1.18.1-1.2.0-pre.jar",
                     "md5": "35415173d6c67a3ef387953aabe52743",
                     "size": 1779258,
                     "level": "optionalon"
@@ -145,7 +145,7 @@
                 {
                     "name": "modmenu-3.0.1.jar",
                     "path": "${MCDATADIR}/normal-1.18.1/mods/modmenu-3.0.1.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18.1/optionalon/modmenu-3.0.1.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.1/optionalon/modmenu-3.0.1.jar",
                     "md5": "9411d9c800ef983de97aa641e791f276",
                     "size": 270707,
                     "level": "optionalon"
@@ -153,7 +153,7 @@
                 {
                     "name": "sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
                     "path": "${MCDATADIR}/normal-1.18.1/mods/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/normal-1.18.1/optionalon/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.1/optionalon/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
                     "md5": "9a8c1252bdfa309c7732649cb5ff7656",
                     "size": 1315447,
                     "level": "optionalon"
@@ -165,7 +165,63 @@
                     "name": "fabric-loader-0.13.0-1.18.1.json",
                     "md5": "708ed528974751a6a0f8b90c5329f18a",
                     "size": 1679,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/versions/fabric-loader-0.13.0-1.18.1/fabric-loader-0.13.0-1.18.1.json"
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/.minecraft/versions/fabric-loader-0.13.0-1.18.1/fabric-loader-0.13.0-1.18.1.json"
+                }
+            ]
+        },
+        {
+            "name": "のーまるな1.18.2",
+            "id": "normal-1.18.2",
+            "description": "のーまるな1.18.2です。",
+            "javaVersion": "17",
+            "option": {
+                "root": "",
+                "version": {
+                    "number": "1.18.2",
+                    "type": "SasaLauncher2",
+                    "custom": "fabric-loader-0.13.3-1.18.2"
+                },
+                "memory": {
+                    "max": "4G",
+                    "min": "4G"
+                },
+                "overrides": {
+                    "gameDirectory": null
+                }
+            },
+            "mods": [
+                {
+                    "name": "iris-mc1.18.2-1.2.1-rc2-0cc372f0.jar",
+                    "path": "${MCDATADIR}/normal-1.18.2/mods/iris-mc1.18.2-1.2.1-rc2-0cc372f0.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.2/optionalon/iris-mc1.18.2-1.2.1-rc2-0cc372f0.jar",
+                    "md5": "d26bdb44fc47cfb2c0f86e7e2e399b7a",
+                    "size": 675,
+                    "level": "optionalon"
+                },
+                {
+                    "name": "modmenu-3.1.0.jar",
+                    "path": "${MCDATADIR}/normal-1.18.2/mods/modmenu-3.1.0.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.2/optionalon/modmenu-3.1.0.jar",
+                    "md5": "a6479da6a86829decd33c8eacea05357",
+                    "size": 656,
+                    "level": "optionalon"
+                },
+                {
+                    "name": "sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+                    "path": "${MCDATADIR}/normal-1.18.2/mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/normal-1.18.2/optionalon/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+                    "md5": "1672a431505f163a50c7c5a013fc8f89",
+                    "size": 682,
+                    "level": "optionalon"
+                }
+            ],
+            "files": [
+                {
+                    "path": "${MCLIBDIR}/versions/fabric-loader-0.13.3-1.18.2/fabric-loader-0.13.3-1.18.2.json",
+                    "name": "fabric-loader-0.13.3-1.18.2.json",
+                    "md5": "3fbf52be4f3e5a78eb93f219699d1599",
+                    "size": 1679,
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/.minecraft/versions/fabric-loader-0.13.3-1.18.2/fabric-loader-0.13.3-1.18.2.json"
                 }
             ]
         },
@@ -189,12 +245,12 @@
                     "gameDirectory": null
                 }
             },
-            "forgeLib": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
+            "forgeLib": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/.minecraft/forgeLibBinary/forge-1.17.1-37.0.103.zip",
             "mods": [
                 {
                     "name": "twilightforest-1.17.1-4.0.811-universal.jar",
                     "path": "${MCDATADIR}/TwilightForest-1.17.1/mods/twilightforest-1.17.1-4.0.811-universal.jar",
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/servers/TwilightForest-1.17.1/require/twilightforest-1.17.1-4.0.811-universal.jar",
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/servers/TwilightForest-1.17.1/require/twilightforest-1.17.1-4.0.811-universal.jar",
                     "md5": "996ff103a0175ae907b29c6645018e32",
                     "size": 32155163,
                     "level": "require"
@@ -206,7 +262,7 @@
                     "name": "forge-1.17.1-37.0.103-installer.jar",
                     "md5": "7d1e707696bf9e0c5b6f02e8f0651d4c",
                     "size": 5300918,
-                    "link": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks2/master/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
+                    "link": "https://raw.githubusercontent.com/sasa-dn5-run/SasaPacks2/master/.minecraft/forge/forge-1.17.1-37.0.103-installer.jar"
                 }
             ]
         }
